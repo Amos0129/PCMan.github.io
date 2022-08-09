@@ -1,0 +1,75 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\程式設計\程設 上課\音樂處理\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+F:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+G:\程式設計\半成功精靈\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\程式設計\半成功精靈\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\stella\Downloads\1B-10833213-莊博翔\1B-10833213-莊博翔\1B-10833213-莊博翔\PCMan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
